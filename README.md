@@ -1,4 +1,4 @@
-# Acquire-Analyize-Twitter
+# Acquire-Analyze-Twitter
 
 Part of Fall 2021 Text Mining Course as UM
 
